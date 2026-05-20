@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         广东省干部培训网络学院刷课(修正版)
+// @name         广东省干部培训网络学院自动学习
 // @namespace    http://tampermonkey.net/guangdong-study
 // @version      0.1.0
 // @description  本脚本不支持倍速播放，仅支持自动播放下一课，在原脚本基础上修正了不能自动播放下一课的问题，按下F12打开浏览器控制台可看到脚本运行状态以及当前学习课程
